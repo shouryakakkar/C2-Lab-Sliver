@@ -3,9 +3,8 @@
 **MITRE ATT&CK:** T1033, T1057, T1082
 
 ## Beacon Check-In
-[INSERT SCREENSHOT → PDF showing beacons table:
-"INADEQUATE_CONSONANT - DESKTOP-0CLPOBP - 
-LAB\jsmith - windows/amd64 - Next Check-In: 1m7s"]
+<img width="1703" height="312" alt="image" src="https://github.com/user-attachments/assets/e4dbe5a1-aa89-48aa-ae59-dbdcfbfa3375" />
+
 
 Two beacons visible — showing persistent access 
 established on the target machine.
@@ -18,8 +17,8 @@ use 5f670cb2
 ### Identity Confirmation
 whoami
 → Logon ID: LAB\jsmith
-[INSERT SCREENSHOT → PDF showing:
-"whoami → Logon ID: LAB\jsmith"]
+<img width="671" height="131" alt="image" src="https://github.com/user-attachments/assets/c510568d-507e-4a11-9f6d-243e35908d19" />
+
 
 ### System Information
 info
@@ -38,8 +37,7 @@ info
 ps
 getuid
 pwd
-[INSERT SCREENSHOT → PDF showing ps, getuid, 
-pwd commands being tasked]
+<img width="715" height="782" alt="image" src="https://github.com/user-attachments/assets/6c8080b6-a63e-4651-9781-66c5cc4ca458" />
 
 ## Session Summary
 Full C2 access established over HTTP to domain 
