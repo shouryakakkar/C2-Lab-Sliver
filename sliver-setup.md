@@ -10,8 +10,4 @@ sudo sliver-server
 ## Connecting Client
 sliver
 
-[INSERT SCREENSHOT → Top left of PDF showing:
-- sliver command
-- "Connecting to 127.0.0.1:31337"
-- Sliver banner/logo in green
-- Server v1.7.3 confirmation]
+<img width="1502" height="791" alt="image" src="https://github.com/user-attachments/assets/74fc1915-8206-4789-8165-ce17e384c826" />
