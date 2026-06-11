@@ -17,6 +17,8 @@ use 5f670cb2
 ### Identity Confirmation
 whoami
 → Logon ID: LAB\jsmith
+
+
 <img width="671" height="131" alt="image" src="https://github.com/user-attachments/assets/c510568d-507e-4a11-9f6d-243e35908d19" />
 
 
@@ -37,6 +39,8 @@ info
 ps
 getuid
 pwd
+
+
 <img width="715" height="782" alt="image" src="https://github.com/user-attachments/assets/6c8080b6-a63e-4651-9781-66c5cc4ca458" />
 
 ## Session Summary
